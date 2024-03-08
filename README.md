@@ -12,4 +12,4 @@ Nesse readme falei um pouco sobre alguns comandos muito usados pela comunidade d
 - Git push
   <p>↪Este comando envia as alterações do seu repositório local para o repositório remoto, conforme a branch que está sendo utilizada.</p>
 - Git rm
-  <p>↪Para remover arquivos ou diretórios de um repositório.</p>
+  <p>↳Para remover arquivos ou diretórios de um repositório.</p>
