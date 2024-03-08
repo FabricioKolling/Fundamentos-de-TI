@@ -1,4 +1,8 @@
 <h1 align="center"> Bem-vindo ao meu primeiro commit! 🎉 </h1>
+
+![tumblr_mgzx29BlLW1rwf7hjo1_400](https://github.com/FabricioKolling/Fundamentos-de-TI/assets/162700727/a1b84d4c-2acd-4e76-b71b-d0a4ac9a8578)
+
+
 <h4 align="center"> Nesse readme falei um pouco sobre alguns comandos muito usados pela comunidade do GitHub.
 </h4>
 
