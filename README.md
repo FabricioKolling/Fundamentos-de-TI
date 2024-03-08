@@ -1,4 +1,4 @@
-<h1 align="center"> Bem-vindo ao meu Readme! </h1>
+<h1 align="center"> Bem-vindo ao meu primeiro commit! 🎉 </h1>
 Nesse readme falei um pouco sobre alguns comandos muito usados pela comunidade do GitHub.
 
 # Comandos Git e sua funcionabilidades 💻
