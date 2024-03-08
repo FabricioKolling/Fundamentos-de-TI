@@ -2,7 +2,7 @@
 <h4 align="center"> Nesse readme falei um pouco sobre alguns comandos muito usados pela comunidade do GitHub.
 </h4>
 
-# Comandos Git e sua funcionabilidades 💻
+# Comandos e funcionabilidades Git: 💻
 
 - Git branch
   <p>↳ O comando git branch permite criar, listar, renomear e excluir ramificações.</p>
